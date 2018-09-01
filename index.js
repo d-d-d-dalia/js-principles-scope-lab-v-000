@@ -28,7 +28,3 @@ function attemptTwoFavoriteCustomers () {
   let favoriteCustomer = 'bar';
   let favoriteCustomer = 'not bar';
 }
-
-function setBestCustomer () {
-  bestCustomer = 'not bob';
-}
