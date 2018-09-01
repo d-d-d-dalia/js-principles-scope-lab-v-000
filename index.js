@@ -32,7 +32,3 @@ function attemptTwoFavoriteCustomers () {
 function setBestCustomer () {
   bestCustomer = 'not bob';
 }
-
-function overwriteBestCustomer (newFavorite) {
-  bestCustomer = newFavorite;
-}
